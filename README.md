@@ -10,7 +10,6 @@ Its purpose is to provide a simple and efficient tool for managing library reade
 - ➕ Add, edit, and delete **readers**
 - 📖 Add, edit, and delete **books**
 - 🗂️ Store and manage library data in a structured way
-- 🖥️ Easy-to-use graphical interface (Windows Forms)
 - 💾 Simple data persistence without a complex database
 
 ---
