@@ -32,7 +32,3 @@ This project demonstrates:
 - Basic UI/UX design for management systems  
 - Skills in building small, functional tools for everyday tasks
 
----
-
-## 📂 Project Structure
-
