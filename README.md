@@ -1,30 +1,39 @@
-Library Reader Service (C# Desktop Application)
+# 📚 Library Reader Service
 
-Library Reader Service is a C# desktop application developed as a university course project.
-The main goal of the system is to provide a simple and efficient tool for managing library readers and books.
+**Library Reader Service** is a C# desktop application developed as a university course project.  
+Its purpose is to provide a simple and efficient tool for managing library readers and books through a clean and user-friendly interface.
 
-The application allows users to:
+---
 
-Add, edit, and delete readers
+## ✨ Features
 
-Add, edit, and delete books
+- ➕ Add, edit, and delete **readers**
+- 📖 Add, edit, and delete **books**
+- 🗂️ Store and manage library data in a structured way
+- 🖥️ Easy-to-use graphical interface (Windows Forms)
+- 💾 Simple data persistence without a complex database
 
-Store key information in a structured and accessible format
+---
 
-Navigate through a clear and minimalistic user interface
+## 🛠️ Technologies Used
 
-Manage library data without using a complex database system
+- **C#**
+- **.NET Framework / .NET Windows Forms**  
+- **Object-Oriented Programming principles**
 
-The project demonstrates:
+---
 
-Basic principles of object-oriented programming in C#
+## 🎯 Project Goals
 
-Work with Windows Forms (or WPF — you can tell me which one you used)
+This project demonstrates:
 
-Handling user input and form events
+- Understanding of **desktop application development**
+- Application of **OOP principles**  
+- Working with forms, events, and user input  
+- Basic UI/UX design for management systems  
+- Skills in building small, functional tools for everyday tasks
 
-Simple data persistence (files, lists, or any other method used)
+---
 
-Understanding of software design and UI/UX basics
+## 📂 Project Structure
 
-This project showcases practical skills in building small management systems and creating functional desktop tools using the .NET ecosystem.
